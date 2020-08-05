@@ -697,12 +697,14 @@ ul.sub-menu {
 
 .action .btn-common{
   margin-top: 55px;
+
   float: left;
 }
 
 .button{
   padding-top: 55px;
   padding-left: 100px;
+  padding-bottom: 100px;
 }
 .title {
   color: #404040;
