@@ -670,6 +670,8 @@ ul.sub-menu {
 
 .single-service img {
   margin-bottom: 35px;
+  width: 100px;
+  height: 500px;
 }
 
 .single-service .fold {
@@ -697,8 +699,9 @@ ul.sub-menu {
 
 .action .btn-common{
   margin-top: 55px;
-
-  float: left;
+  float: right;
+  margin-bottom: 55px;
+  padding-right: 55px;
 }
 
 .button{
